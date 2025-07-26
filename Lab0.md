@@ -19,6 +19,9 @@ VS Code is an excellent choice for Python development because of its Lightweight
 > Installing VS Code
 
 Download VS Code from the official website:[click here](https://code.visualstudio.com/.)
+Install the appropriate version for your operating system (Windows, macOS, or Linux).
+<img width="968" height="534" alt="image" src="https://github.com/user-attachments/assets/092604c6-0e18-433c-aeb6-28c13f91e02e" />
+
 
 
 
