@@ -69,6 +69,16 @@ Search for the Python extension by Microsoft Click Install
 
   <img width="1725" height="580" alt="image" src="https://github.com/user-attachments/assets/bdddb78d-4f1a-4d9f-93bc-d6f42fe87d5e" />
 
+- If Jupyter is not installed, VS Code will prompt you to install it. You can also install it manually using: pip install jupyter
+  
+  <img width="1570" height="594" alt="image" src="https://github.com/user-attachments/assets/0ee26168-ef25-4c3c-b368-e2a8e8105026" />
+
+4. Running Python Scripts in VS Code
+   - The built-in Run button in the top-right corner of the editor  The integrated terminal by typing (Troubleshooting)
+
+     <img width="1626" height="288" alt="image" src="https://github.com/user-attachments/assets/80b19fa4-8e96-49ee-8ee8-2950e8e485cf" />
+
+
 
 
 
