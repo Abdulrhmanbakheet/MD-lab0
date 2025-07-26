@@ -40,7 +40,7 @@ VS Code is an excellent choice for Python development because of its Lightweight
 # jupyter
 <img width="558" height="540" alt="image" src="https://github.com/user-attachments/assets/6f76fc43-0b85-4414-ad0a-a6f84f6106ef" />
 
-> Setting Up Python in VS Code
+- Setting Up Python in VS Code
 Search for the Python extension by Microsoft Click Install
 
 <img width="566" height="534" alt="image" src="https://github.com/user-attachments/assets/dd5659b1-371b-4715-8d60-06aa26a51fb3" />
