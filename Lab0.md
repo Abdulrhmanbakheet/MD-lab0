@@ -45,6 +45,9 @@ Search for the Python extension by Microsoft Click Install
 
 <img width="566" height="534" alt="image" src="https://github.com/user-attachments/assets/dd5659b1-371b-4715-8d60-06aa26a51fb3" />
 
+- To verify, open a new file, save it with a .py extension, and write: print ("Hello , VS Code !") Run the script
+
+  <img width="1725" height="537" alt="image" src="https://github.com/user-attachments/assets/71aa25f6-00e1-4500-8b58-d01913a8966d" />
 
 
 
