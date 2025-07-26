@@ -65,6 +65,10 @@ Search for the Python extension by Microsoft Click Install
 #
 <img width="1187" height="277" alt="image" src="https://github.com/user-attachments/assets/ef2cceb7-18e4-4168-a95d-8d4a0218b685" />
 
+- Click on a code cell and type: print ("Hello , Jupyter in VS Code !") Click the Run button next to the cell to execute the code
+
+  <img width="1725" height="580" alt="image" src="https://github.com/user-attachments/assets/bdddb78d-4f1a-4d9f-93bc-d6f42fe87d5e" />
+
 
 
 
