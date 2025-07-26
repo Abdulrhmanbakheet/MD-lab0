@@ -54,6 +54,12 @@ Search for the Python extension by Microsoft Click Install
 
 <img width="1725" height="543" alt="image" src="https://github.com/user-attachments/assets/fc4c3e32-7436-4999-b673-0134b51587ce" />
 
+```
+Hello , in VS Code
+Hello , Jupyter in VS Code 
+
+```
+
 - Open VS Code and go to the Extensions Marketplace (Ctrl + Shift + X) Search for the Jupyter extension and install it
 
 <img width="568" height="585" alt="image" src="https://github.com/user-attachments/assets/b1108826-f6c8-4303-87c0-e91d5dd79ac9" />
