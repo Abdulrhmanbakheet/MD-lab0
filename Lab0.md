@@ -27,9 +27,12 @@ VS Code is an excellent choice for Python development because of its Lightweight
 <img width="1085" height="583" alt="image" src="https://github.com/user-attachments/assets/1c335f7f-823e-4643-be44-3095a498d7d3" />
 
 
-> Setting Up Python in VS Code
 
-Open VS Code and go to the Extensions Marketplace by pressing Ctrl + Shift + X
+
+2. Setting Up Python in VS Code
+  - Open VS Code and go to the Extensions Marketplace by pressing Ctrl + Shift + X
+
+
 
 # python
 <img width="558" height="534" alt="image" src="https://github.com/user-attachments/assets/75fadea4-f295-4abc-9385-285b22f06e66" />
