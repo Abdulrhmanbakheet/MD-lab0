@@ -80,7 +80,7 @@ Search for the Python extension by Microsoft Click Install
 
 
 # THANK YOU
-شكر لكم
+# شكر لكم
 
 
 
