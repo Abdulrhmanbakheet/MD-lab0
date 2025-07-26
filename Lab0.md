@@ -17,7 +17,7 @@ Visual Studio Code (VS Code) is a powerful, lightweight, and free code editor de
 VS Code is an excellent choice for Python development because of its Lightweight and Fast: Uses fewer system resources compared to full IDEs like PyCharm Extensibility: Supports a wide range of extensions, including Jupyter and Python debugging tools Integrated Terminal: Allows execution of Python scripts without leaving the editor Jupyter Notebook Support: Enables running and editing Jupyter notebooks inside the editor Version Control Integration: Built-in support for Git to manage your code versions
 
 1. Installing VS Code
-   - Download VS Code from the official website:[click here](https://code.visualstudio.com/.)
+    - Download VS Code from the official website:[click here](https://code.visualstudio.com/.)
      Install the appropriate version for your operating system (Windows, macOS, or Linux).
 
 <img width="968" height="534" alt="image" src="https://github.com/user-attachments/assets/092604c6-0e18-433c-aeb6-28c13f91e02e" />
@@ -30,7 +30,7 @@ VS Code is an excellent choice for Python development because of its Lightweight
 
 
 2. Setting Up Python in VS Code
-   - Open VS Code and go to the Extensions Marketplace by pressing Ctrl + Shift + X
+    - Open VS Code and go to the Extensions Marketplace by pressing Ctrl + Shift + X
 
 
 
