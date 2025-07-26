@@ -12,3 +12,6 @@ Defnition of Vs Code Why Use VS Code for Python Installing VS Code Setting Up Py
 
 Visual Studio Code (VS Code) is a powerful, lightweight, and free code editor developed by Microsoft. It supports multiple programming languages, including Python, and can be extended with plugins to add functionality such as Jupyter Notebook support
 
+1. well
+   - come
+
