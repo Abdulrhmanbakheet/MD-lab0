@@ -54,10 +54,16 @@ Search for the Python extension by Microsoft Click Install
 
 <img width="1725" height="543" alt="image" src="https://github.com/user-attachments/assets/fc4c3e32-7436-4999-b673-0134b51587ce" />
 
-- Open VS Code and go to the Extensions Marketplace (Ctrl + Shift + X)Search for the Jupyter extension and install it
+- Open VS Code and go to the Extensions Marketplace (Ctrl + Shift + X) Search for the Jupyter extension and install it
 
 <img width="568" height="585" alt="image" src="https://github.com/user-attachments/assets/b1108826-f6c8-4303-87c0-e91d5dd79ac9" />
 
+- Open or create a new .ipynb file
+#
+<img width="1014" height="247" alt="image" src="https://github.com/user-attachments/assets/5761ddb8-2e69-4d7c-8fc7-5ddcf1faa4f4" />
+
+#
+<img width="1187" height="277" alt="image" src="https://github.com/user-attachments/assets/ef2cceb7-18e4-4168-a95d-8d4a0218b685" />
 
 
 
