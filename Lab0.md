@@ -79,7 +79,8 @@ Search for the Python extension by Microsoft Click Install
      <img width="1626" height="288" alt="image" src="https://github.com/user-attachments/assets/80b19fa4-8e96-49ee-8ee8-2950e8e485cf" />
 
 
-
+# THANK YOU
+شكر لكم
 
 
 
